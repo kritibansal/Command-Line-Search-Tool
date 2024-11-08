@@ -1,0 +1,5 @@
+Hello world
+Python programming
+Reading files is fun
+Search me if you can
+This is a test message
